@@ -52,5 +52,16 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
+    <ImageView
+        android:id="@+id/menu_icon2"
+        android:layout_width="85dp"
+        android:layout_height="84dp"
+        android:layout_marginLeft="290dp"
+        android:layout_marginTop="-100dp"
+        android:src="@mipmap/image_icon"
+        tools:ignore="InvalidId">
+
+    </ImageView>
+
 
 </LinearLayout>
